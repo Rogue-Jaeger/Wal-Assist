@@ -18,10 +18,10 @@ An ionic-app to better assist a user looking to purchase goods through physical 
 
   
 Commands that worked for me from mac:<br>
-	1. Git init<br>
-	2. Git status <br>
-	3. Git add .<br>
-	4. Git commit -m "initial commit"<br>
-	5. Git remote set-url origin https://github.com/Rogue-Jaeger/Wal-Assist.git<br>
-	6. Git push --set-upstream origin master<br>
-	7. Git push origin master --force
+&emsp;1. Git init<br>
+&emsp;2. Git status <br>
+&emsp;3. Git add .<br>
+&emsp;4. Git commit -m "initial commit"<br>
+&emsp;5. Git remote set-url origin https://github.com/Rogue-Jaeger/Wal-Assist.git<br>
+&emsp;6. Git push --set-upstream origin master<br>
+&emsp;7. Git push origin master --force
