@@ -17,7 +17,7 @@ An ionic-app to better assist a user looking to purchase goods through physical 
 8. In project folder your android app is at:<b><i> Wal-Assist/platforms/android/app/src/main/</b></i>
 
   
-Commands that worked for me from mac:<br>
+Commands that worked for me on mac:<br>
 &emsp;1. Git init<br>
 &emsp;2. Git status <br>
 &emsp;3. Git add .<br>
