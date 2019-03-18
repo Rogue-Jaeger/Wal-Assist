@@ -17,3 +17,11 @@ An ionic-app to better assist a user looking to purchase goods through physical 
 8. In project folder your android app is at:<b><i> Wal-Assist/platforms/android/app/src/main/</b></i>
 
   
+Commands that worked for me from mac:<br>
+    1. Git init<br>
+    2. git status <br>
+    3. Git add .<br>
+    4. Git commit -m "initial commit"<br>
+    5. git remote set-url origin https://github.com/Rogue-Jaeger/Wal-Assist.git<br>
+    6. git push --set-upstream origin master<br>
+    7. git push origin master --force
