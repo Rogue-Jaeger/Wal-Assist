@@ -1,0 +1,57 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+.button-float{
+  z-index: 12;
+  position: fixed;
+  bottom: 40px;
+  right: 15px;
+}
+.listHeight{
+  height:80px;
+}
+.listElementHeight{
+  font-size:20px;
+}
+.icon{
+  width:35px;
+  height:35px;
+}
+.priceColor{
+  color: #2f5687;
+}
+.rightAlign{
+  text-align: center;
+}
+.qtyColorPadding{
+  color: #2f5687;
+  padding-right: 20px;
+}
+.navbarPadding{
+  padding-left: 110px;
+}
+.navbarImg{
+  height:27px;
+}
+.divparent
+{
+    text-align: center;
+}
+.divClass
+{
+    display: inline-block;
+}
+
+.center
+{
+  padding-left: 50px;
+}
+
+.logo{
+  float: left;
+}
+
+.ion-title{
+  text-align: center;
+}

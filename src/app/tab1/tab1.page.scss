@@ -1,0 +1,47 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+.classMap {
+  height: 100%;
+  width: 100%;
+  .classSavePoly {
+      .item-md {
+          padding: 0;
+      }
+  }
+  .polySpanDiv{
+      background: white;
+      border: 1px solid;
+      padding-left: 3px;
+      padding-right: 3px;
+  }
+  .classPolySpan {
+      font-size: 15px;
+      font-weight: bold;
+     color:#454545;
+      margin:0px !important
+  }
+}
+.divparent
+{
+    text-align: center;
+}
+.divClass
+{
+    display: inline-block;
+}
+.div-wrapper {
+  position:relative;
+  height: 100%;
+  width: 100%;
+  }
+  
+  .angular-google-map-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  }
+

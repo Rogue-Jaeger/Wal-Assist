@@ -1,0 +1,44 @@
+<ion-header>
+  <div class="divparent">
+    <div class="divClass">
+      <ion-title class="center">
+        LOCATE PHYSICAL STORES AROUND YOU!
+      </ion-title>
+    </div>
+  </div>
+</ion-header>
+
+
+<ion-content>
+  <ngui-map class="classMap"
+    zoom="13" 
+    center="25.774,-80.190"
+    (mapReady$)="onMapReady($event)"
+      (mapClick)="onMapClick($event)"
+      (idle)="onIdle($event)"
+      mapTypeId="satellite" >
+  </ngui-map>
+
+  <div [hidden]="div1" id="content1">
+      <ion-list>
+          <ion-item>
+            <ion-label>First Nearest Store</ion-label>
+          </ion-item>
+
+          <ion-item>
+            
+            <ion-input [(ngModel)]="check" placeholder="Looking for an item?"></ion-input>
+        
+          </ion-item>
+          <ion-item>
+        
+          
+              <button ion-button (click)="checkk()" color="primary">Search</button>
+            </ion-item>
+            <ion-item *ngIf="MyServiceService.showQuantity">
+              <ion-label>Units Available: {{units}}</ion-label>
+            </ion-item>
+        </ion-list>
+
+  </div> 
+</ion-content>

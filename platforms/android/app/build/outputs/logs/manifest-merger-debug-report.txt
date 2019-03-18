@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [:barcodescanner-release-2.1.5:] /private/var/root/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/95ea51823bfeb140f286020491e24f3b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/e86446a76e71251d3db4521db6d5126c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/eea68316d2e7fc3f104764e346663a98/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/082aebd671c57d13f360e935dceede50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/94e5929d76728f8c380bcc45d3e2e7b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b490fecc66543f00c340adc9f15b5eda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/68743591cf486b89c517cc04d03e1436/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b784f528d1d1f056dce4477fbcb1b78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9b1070919920f01a329980f1ba6e2386/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88a90709f707c111557039e2239b3fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] /Users/y0d011v/Desktop/Wal-Assist/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af89341093eadb94c7356d3ca062d955/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5bbb164e289d6e495b24afb0633732/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e7594db5119cebf579569f6021b0aae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f59bf859858de60dc1fd1cc8560c9207/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:98-124
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:125-183
+	android:versionCode
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [:barcodescanner-release-2.1.5:] /private/var/root/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/95ea51823bfeb140f286020491e24f3b/AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] /private/var/root/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/95ea51823bfeb140f286020491e24f3b/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/e86446a76e71251d3db4521db6d5126c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/e86446a76e71251d3db4521db6d5126c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/eea68316d2e7fc3f104764e346663a98/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/eea68316d2e7fc3f104764e346663a98/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/082aebd671c57d13f360e935dceede50/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/082aebd671c57d13f360e935dceede50/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#io.ionic.starter.MainActivity
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+service#com.cowbell.cordova.geofence.ReceiveTransitionsIntentService
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:12:9-154
+	android:label
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:12:43-75
+	android:exported
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:12:18-42
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:12:76-151
+receiver#com.cowbell.cordova.geofence.BootReceiver
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:13:9-17:20
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:13:19-75
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:14:13-16:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:15:25-76
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:9-311
+	android:clearTaskOnLaunch
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:19-51
+	android:windowSoftInputMode
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:261-308
+	android:exported
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:114-138
+	android:configChanges
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:52-113
+	android:theme
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:202-260
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:18:139-201
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:19:9-112
+	android:label
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:19:19-40
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:19:41-109
+uses-sdk
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:21:5-74
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:21:5-74
+MERGED from [:barcodescanner-release-2.1.5:] /private/var/root/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/95ea51823bfeb140f286020491e24f3b/AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.5:] /private/var/root/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/95ea51823bfeb140f286020491e24f3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/e86446a76e71251d3db4521db6d5126c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/e86446a76e71251d3db4521db6d5126c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/eea68316d2e7fc3f104764e346663a98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/eea68316d2e7fc3f104764e346663a98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/082aebd671c57d13f360e935dceede50/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/082aebd671c57d13f360e935dceede50/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/94e5929d76728f8c380bcc45d3e2e7b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/94e5929d76728f8c380bcc45d3e2e7b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b490fecc66543f00c340adc9f15b5eda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b490fecc66543f00c340adc9f15b5eda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/68743591cf486b89c517cc04d03e1436/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/68743591cf486b89c517cc04d03e1436/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b784f528d1d1f056dce4477fbcb1b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b784f528d1d1f056dce4477fbcb1b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9b1070919920f01a329980f1ba6e2386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9b1070919920f01a329980f1ba6e2386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88a90709f707c111557039e2239b3fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88a90709f707c111557039e2239b3fe5/AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] /Users/y0d011v/Desktop/Wal-Assist/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/y0d011v/Desktop/Wal-Assist/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af89341093eadb94c7356d3ca062d955/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af89341093eadb94c7356d3ca062d955/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5bbb164e289d6e495b24afb0633732/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5bbb164e289d6e495b24afb0633732/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e7594db5119cebf579569f6021b0aae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e7594db5119cebf579569f6021b0aae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f59bf859858de60dc1fd1cc8560c9207/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f59bf859858de60dc1fd1cc8560c9207/AndroidManifest.xml:20:5-44
+INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:21:5-74
+	android:targetSdkVersion
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:21:42-71
+	android:minSdkVersion
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:21:15-41
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:25:22-63
+uses-feature#android.hardware.location.gps
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:26:19-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:27:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:28:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:29:5-84
+	android:required
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:29:58-81
+	android:name
+		ADDED from /Users/y0d011v/Desktop/Wal-Assist/platforms/android/app/src/main/AndroidManifest.xml:29:19-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/1127991f9ac552ea37e5815549072df7/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/460cdc2371e4cf5dc9c963651b9d79aa/AndroidManifest.xml:24:13-58
